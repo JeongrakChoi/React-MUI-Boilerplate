@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-MUI-Boilerplate/static/css/main.f8679318.css",
+    "main.js": "/React-MUI-Boilerplate/static/js/main.b5502033.js",
+    "index.html": "/React-MUI-Boilerplate/index.html",
+    "main.f8679318.css.map": "/React-MUI-Boilerplate/static/css/main.f8679318.css.map",
+    "main.b5502033.js.map": "/React-MUI-Boilerplate/static/js/main.b5502033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8679318.css",
+    "static/js/main.b5502033.js"
+  ]
+}
