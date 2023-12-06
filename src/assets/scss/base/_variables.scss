@@ -1,0 +1,23 @@
+/* color */
+$color-black: #212121;
+$color-white: #fff;
+$color-gray: #eee;
+
+$color-theme: #212121;
+
+$color-valid: #12d18e;
+$color-error: #f75555;
+$color-disabled: #ccf0ea;
+
+/* filter */
+$color-theme-filter: invert(88%) sepia(23%) saturate(1195%) hue-rotate(357deg) brightness(104%) contrast(93%);
+
+/* ai class */
+$color-aiClass01: #ff981f;
+$color-aiClass02: #48abf3;
+$color-aiClass03: #c871d2;
+
+/* Ionic color */
+:root {
+  --ion-color-primary: #212121;
+}
