@@ -5,9 +5,13 @@
 MUI 학습 겸 제작 중인 보일러 플레이트 입니다.  
 <br>
 
+공식 링크
 <a href="https://mui.com/material-ui/getting-started/" target="_blank">https://mui.com/material-ui/getting-started/</a>
 <br>
 
+
+## 폴더 구조
+```
 |- public
 |- src
   |- assets
@@ -33,6 +37,7 @@ MUI 학습 겸 제작 중인 보일러 플레이트 입니다.
     |- breakpoint.tsx # 반응형 정의
     |- typography.tsx # 타이포그래피
     |- palette.tsx # 색상 정의
+```
 
 ## Terminal
 
