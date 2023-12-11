@@ -2,10 +2,9 @@
 
 <!-- ![screen](./README.jpg) -->
 
-MUI 학습 겸 제작 중인 보일러 플레이트 입니다.  
+MUI 스터디
 <br>
 
-공식 링크
 <a href="https://mui.com/material-ui/getting-started/" target="_blank">https://mui.com/material-ui/getting-started/</a>
 <br>
 
